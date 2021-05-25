@@ -1,4 +1,4 @@
-# @uniswap/merkle-distributor smart contract testing
+# @uniswap/merkle-distributor with SafeERC & test coverage
 ## Installation:
 ### Hardhat
 ```bash
